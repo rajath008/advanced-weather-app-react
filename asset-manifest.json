@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advanced-weather-app-react/static/css/main.9f49b7a9.css",
+    "main.js": "/advanced-weather-app-react/static/js/main.875f8754.js",
+    "index.html": "/advanced-weather-app-react/index.html",
+    "main.9f49b7a9.css.map": "/advanced-weather-app-react/static/css/main.9f49b7a9.css.map",
+    "main.875f8754.js.map": "/advanced-weather-app-react/static/js/main.875f8754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f49b7a9.css",
+    "static/js/main.875f8754.js"
+  ]
+}
